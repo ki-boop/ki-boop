@@ -7,7 +7,7 @@
  - Playing guitar 🎸
 
 #### Technical Skills
- - FrontEnd: TypeScript, Angular, MobX, PrimeFaces, React, Redux, Material UI, PrimeFaces
+ - FrontEnd: TypeScript, Angular, MobX, PrimeFaces, React, Redux, Material UI
  - BackEnd: Java Spring (base), Node.js (base)
  - DB: PostgreSQL, MongoDB, MySQL
  - Others Features: Git, GitLab, Swagger, Docker, Linux, RestAPI, GraphQL
