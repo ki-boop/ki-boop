@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**ki-boop/ki-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+ - Student of Information Systems and Technologies (2024) 🎓
+ - Frontend Software Engineer 🖥️
+ - Development of corporate systems for the growth and automation of business processes💲
+ - Playing guitar 🎸
 
-Here are some ideas to get you started:
+#### Technical Skills
+ - FrontEnd: TypeScript, Angular, MobX, PrimeFaces, React, Redux, Material UI, PrimeFaces
+ - BackEnd: Java Spring (base), Node.js (base)
+ - DB: PostgreSQL, MongoDB, MySQL
+ - Others Features: Git, GitLab, Swagger, Docker, Linux, RestAPI, GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+  - <a href="https://t.me/karpakov02">Telegram</a>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki-boop&hide=html,css,asp&theme=radical&card_width=250&height=100l&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
