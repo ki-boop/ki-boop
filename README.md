@@ -1,5 +1,3 @@
-### Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
 #### About me
  - Student of Information Systems and Technologies (2024) 🎓
  - Frontend Software Engineer 🖥️
@@ -7,8 +5,8 @@
  - Playing guitar 🎸
 
 #### Technical Skills
- - FrontEnd: TypeScript, Angular, MobX, PrimeFaces, React, Redux, Material UI
- - BackEnd: Java Spring (base), Node.js (base)
+ - FrontEnd: TypeScript, Angular, MobX, PrimeFaces, React, Redux, Material UI, Vue3 
+ - BackEnd: Java Spring (base), Nestjs (base)
  - DB: PostgreSQL, MongoDB, MySQL
  - Others Features: Git, GitLab, Swagger, Docker, Linux, RestAPI, GraphQL
 
